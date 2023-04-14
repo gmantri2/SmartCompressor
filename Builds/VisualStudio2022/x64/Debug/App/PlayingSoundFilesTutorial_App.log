@@ -1,0 +1,21 @@
+﻿  Main.cpp
+  audioCompression.cc
+  readWavFile.cc
+C:\Users\valle\Desktop\JUCE\Project\course-project-akk\src\readWavFile.cc(23,38): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\valle\Desktop\JUCE\Project\course-project-akk\src\readWavFile.cc(91,64): warning C4244: '=': conversion from 'double' to 'short', possible loss of data
+C:\Users\valle\Desktop\JUCE\Project\course-project-akk\src\audioCompression.cc(159,52): warning C4244: 'argument': conversion from '_Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\valle\Desktop\JUCE\Project\course-project-akk\PlayingSoundFilesTutorial\Source\PlayingSoundFilesTutorial_01.h(416,15): warning C4189: 'maxVol': local variable is initialized but not referenced (compiling source file ..\..\Source\Main.cpp)
+C:\Users\valle\Desktop\JUCE\Project\course-project-akk\PlayingSoundFilesTutorial\Source\PlayingSoundFilesTutorial_01.h(418,15): warning C4189: 'avgVol': local variable is initialized but not referenced (compiling source file ..\..\Source\Main.cpp)
+C:\Users\valle\Desktop\JUCE\Project\course-project-akk\PlayingSoundFilesTutorial\Source\PlayingSoundFilesTutorial_01.h(419,15): warning C4189: 'maxAdj': local variable is initialized but not referenced (compiling source file ..\..\Source\Main.cpp)
+C:\Users\valle\Desktop\JUCE\Project\course-project-akk\PlayingSoundFilesTutorial\Source\PlayingSoundFilesTutorial_01.h(420,15): warning C4189: 'cSpeed': local variable is initialized but not referenced (compiling source file ..\..\Source\Main.cpp)
+C:\Users\valle\Desktop\JUCE\Project\course-project-akk\PlayingSoundFilesTutorial\Source\PlayingSoundFilesTutorial_01.h(417,15): warning C4189: 'minVol': local variable is initialized but not referenced (compiling source file ..\..\Source\Main.cpp)
+C:\Users\valle\Desktop\JUCE\Project\course-project-akk\PlayingSoundFilesTutorial\Source\PlayingSoundFilesTutorial_01.h(421,15): warning C4189: 'sThresh': local variable is initialized but not referenced (compiling source file ..\..\Source\Main.cpp)
+  PlayingSoundFilesTutorial_App.vcxproj -> C:\Users\valle\Desktop\JUCE\Project\course-project-akk\PlayingSoundFilesTutorial\Builds\VisualStudio2022\x64\Debug\App\PlayingSoundFilesTutorial.exe
